@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="960" viewBox="0 0 540 960">
+  <!-- Placeholder shown until assets/demo.mp4 is added. Illustrative numbers only. -->
+  <rect width="540" height="960" fill="#0b1220"/>
+  <text x="270" y="110" fill="#fff" font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle">Side-by-side comparison</text>
+  <text x="270" y="152" fill="#9fb0c8" font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="22" text-anchor="middle">Sample scenario</text>
+  <g font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="22">
+    <rect x="40" y="200" width="220" height="520" rx="22" fill="#16213a"/>
+    <rect x="280" y="200" width="220" height="520" rx="22" fill="#16213a" stroke="#0a84ff" stroke-width="3"/>
+    <text x="150" y="250" fill="#fff" font-weight="700" text-anchor="middle">10% down</text>
+    <text x="390" y="250" fill="#fff" font-weight="700" text-anchor="middle">20% down</text>
+    <g fill="#9fb0c8" text-anchor="middle">
+      <text x="150" y="310">Monthly P&amp;I</text><text x="390" y="310">Monthly P&amp;I</text>
+      <text x="150" y="420">Cash to close</text><text x="390" y="420">Cash to close</text>
+      <text x="150" y="530">Total interest</text><text x="390" y="530">Total interest</text>
+    </g>
+    <g fill="#fff" font-size="30" font-weight="700" text-anchor="middle">
+      <rect x="70" y="330" width="160" height="16" rx="8" fill="#2a3756"/><rect x="310" y="330" width="160" height="16" rx="8" fill="#2a3756"/>
+      <rect x="70" y="440" width="160" height="16" rx="8" fill="#2a3756"/><rect x="310" y="440" width="160" height="16" rx="8" fill="#2a3756"/>
+      <rect x="70" y="550" width="160" height="16" rx="8" fill="#2a3756"/><rect x="310" y="550" width="160" height="16" rx="8" fill="#2a3756"/>
+    </g>
+    <rect x="300" y="620" width="180" height="56" rx="28" fill="#0f5132"/>
+    <text x="390" y="656" fill="#4ade80" font-weight="700" text-anchor="middle">Lower payment</text>
+  </g>
+  <rect x="90" y="790" width="360" height="80" rx="40" fill="#0a84ff"/>
+  <text x="270" y="841" fill="#fff" font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle">Send branded PDF</text>
+</svg>
